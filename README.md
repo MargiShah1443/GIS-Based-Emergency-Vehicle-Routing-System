@@ -72,4 +72,5 @@
 ### **Project Impact**
 This system is designed to significantly improve emergency response times by integrating advanced algorithms, real-time GIS data, and an intuitive interface. Its ability to handle varying traffic conditions and negative edge weights makes it a robust tool for urban emergency services.
 
-![image](https://github.com/user-attachments/assets/324d5fe4-84d6-4a20-bdcd-f0d4c30040cd)
+![image](https://github.com/user-attachments/assets/09fbdb26-461b-4959-9a12-7231da658d86)
+
